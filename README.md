@@ -1,2 +1,2 @@
-# -yatube_project
+# yatube_project
 Блог-платформа, социальная сеть
